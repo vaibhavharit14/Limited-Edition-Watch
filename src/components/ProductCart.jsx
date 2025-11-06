@@ -6,7 +6,13 @@ import { addToCart } from '../stores/Cart';
 
 
 const ProductCart = (props) => {
-  const carts = useSelector(store => store.cart.items);
+  {carts.map((item, index) => (
+  <div key={index}>
+    <p>{item.name}</p>
+    <p>{item.price}</p>
+  </div>
+))}
+
   const { id, name, price, image, slug } = props.data;
   const dispatch = useDispatch();
 
