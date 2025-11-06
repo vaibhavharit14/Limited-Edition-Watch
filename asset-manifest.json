@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Limited-Edition-Watch/static/css/main.6796dd47.css",
+    "main.js": "/Limited-Edition-Watch/static/js/main.c3383efc.js",
+    "static/js/453.b72b36d6.chunk.js": "/Limited-Edition-Watch/static/js/453.b72b36d6.chunk.js",
+    "static/media/6.jpg": "/Limited-Edition-Watch/static/media/6.8fe011f1f0b4787642b2.jpg",
+    "static/media/icon.png": "/Limited-Edition-Watch/static/media/icon.ad442bb07e862dca2b72.png",
+    "static/media/7.jpg": "/Limited-Edition-Watch/static/media/7.df378825458c23fd735c.jpg",
+    "static/media/4.jpg": "/Limited-Edition-Watch/static/media/4.26c2f87db53d9e3212d3.jpg",
+    "static/media/3.jpg": "/Limited-Edition-Watch/static/media/3.517dd20ee0ec7eb3c481.jpg",
+    "static/media/5.jpg": "/Limited-Edition-Watch/static/media/5.93c599c0b17f89124b3a.jpg",
+    "static/media/2.jpg": "/Limited-Edition-Watch/static/media/2.936efc65eb648994d5f5.jpg",
+    "static/media/1.jpg": "/Limited-Edition-Watch/static/media/1.1a37071743fbb5190eed.jpg",
+    "static/media/8.jpg": "/Limited-Edition-Watch/static/media/8.15d83d2149b3a16d0fa0.jpg",
+    "static/media/iconCart.png": "/Limited-Edition-Watch/static/media/iconCart.eca5ee08f37494f3f691.png",
+    "index.html": "/Limited-Edition-Watch/index.html",
+    "main.6796dd47.css.map": "/Limited-Edition-Watch/static/css/main.6796dd47.css.map",
+    "main.c3383efc.js.map": "/Limited-Edition-Watch/static/js/main.c3383efc.js.map",
+    "453.b72b36d6.chunk.js.map": "/Limited-Edition-Watch/static/js/453.b72b36d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6796dd47.css",
+    "static/js/main.c3383efc.js"
+  ]
+}
